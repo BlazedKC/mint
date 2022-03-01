@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/BlazedKC/mint.git/static/css/main.2a187b18.chunk.css",
-    "main.js": "/BlazedKC/mint.git/static/js/main.bd012c21.chunk.js",
-    "main.js.map": "/BlazedKC/mint.git/static/js/main.bd012c21.chunk.js.map",
-    "runtime-main.js": "/BlazedKC/mint.git/static/js/runtime-main.8bda70b2.js",
-    "runtime-main.js.map": "/BlazedKC/mint.git/static/js/runtime-main.8bda70b2.js.map",
-    "static/js/2.5575bcaa.chunk.js": "/BlazedKC/mint.git/static/js/2.5575bcaa.chunk.js",
-    "static/js/2.5575bcaa.chunk.js.map": "/BlazedKC/mint.git/static/js/2.5575bcaa.chunk.js.map",
-    "static/js/3.a64233a7.chunk.js": "/BlazedKC/mint.git/static/js/3.a64233a7.chunk.js",
-    "static/js/3.a64233a7.chunk.js.map": "/BlazedKC/mint.git/static/js/3.a64233a7.chunk.js.map",
-    "index.html": "/BlazedKC/mint.git/index.html",
-    "static/css/main.2a187b18.chunk.css.map": "/BlazedKC/mint.git/static/css/main.2a187b18.chunk.css.map",
-    "static/js/2.5575bcaa.chunk.js.LICENSE.txt": "/BlazedKC/mint.git/static/js/2.5575bcaa.chunk.js.LICENSE.txt",
-    "static/media/1.5158217d.png": "/BlazedKC/mint.git/static/media/1.5158217d.png",
-    "static/media/reset.css": "/BlazedKC/mint.git/static/media/PressStart2P-Regular.f2341734.woff"
+    "main.css": "/mint/static/css/main.8c854ece.chunk.css",
+    "main.js": "/mint/static/js/main.40c24ab8.chunk.js",
+    "main.js.map": "/mint/static/js/main.40c24ab8.chunk.js.map",
+    "runtime-main.js": "/mint/static/js/runtime-main.5d52c622.js",
+    "runtime-main.js.map": "/mint/static/js/runtime-main.5d52c622.js.map",
+    "static/js/2.5d0266ae.chunk.js": "/mint/static/js/2.5d0266ae.chunk.js",
+    "static/js/2.5d0266ae.chunk.js.map": "/mint/static/js/2.5d0266ae.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/mint/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/mint/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/mint/index.html",
+    "static/css/main.8c854ece.chunk.css.map": "/mint/static/css/main.8c854ece.chunk.css.map",
+    "static/js/2.5d0266ae.chunk.js.LICENSE.txt": "/mint/static/js/2.5d0266ae.chunk.js.LICENSE.txt",
+    "static/media/1.5158217d.png": "/mint/static/media/1.5158217d.png",
+    "static/media/reset.css": "/mint/static/media/PressStart2P-Regular.f2341734.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.8bda70b2.js",
-    "static/js/2.5575bcaa.chunk.js",
-    "static/css/main.2a187b18.chunk.css",
-    "static/js/main.bd012c21.chunk.js"
+    "static/js/runtime-main.5d52c622.js",
+    "static/js/2.5d0266ae.chunk.js",
+    "static/css/main.8c854ece.chunk.css",
+    "static/js/main.40c24ab8.chunk.js"
   ]
 }
